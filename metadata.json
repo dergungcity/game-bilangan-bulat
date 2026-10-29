@@ -1,0 +1,6 @@
+{
+  "name": "Math Quest: Pendekar Bilangan Bulat",
+  "description": "Game RPG edukasi matematika bilangan bulat untuk anak kelas 6 SD dengan pertarungan monster interaktif, kombo kecepatan, dan peningkatan karakter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
